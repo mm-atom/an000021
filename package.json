@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/an000021",
-	"version": "1.0.202003171131",
+	"version": "1.0.202004170804",
 	"description": "生成带logo的二维码",
 	"scripts": {
 		"test": "tsc && ava ./tests/*.js",
